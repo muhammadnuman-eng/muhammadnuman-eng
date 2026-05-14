@@ -1,12 +1,12 @@
 <!DOCTYPE html>
+<!-- Portfolio: open in browser or GitHub Pages. Do NOT paste this file into profile README.md (GitHub shows HTML as raw text). "{{" in chat = Cursor snippet, not from this file. -->
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Muhammad Numan - Senior Full Stack Developer</title>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Pacifico&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Pacifico&display=swap');
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css');
+
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
@@ -378,31 +378,38 @@
         <span class="qq left">"</span>Building scalable, efficient and intelligent digital solutions that empower businesses and users.<span class="qq right">"</span>
       </div>
     </div>
+    <div class="hero-avatar" style="position:relative;">
+      <div class="avatar-glow"></div>
+      <img src="https://github.com/muhammadnuman-eng.png"
+           referrerpolicy="no-referrer"
+           onerror="this.onerror=null;this.src='https://api.dicebear.com/7.x/avataaars/svg?seed=MuhammadNuman&backgroundColor=b6e3f4&hair=short&eyes=default&mouth=smile'"
+           alt="Muhammad Numan" style="position:relative;z-index:1;">
+    </div>
   </div>
 
   <!-- ── SOCIAL BAR ── -->
   <div class="social-bar">
-    <a href="#" class="social-item">
+    <a href="https://muhammadnouman.site/" class="social-item" target="_blank" rel="noopener noreferrer">
       <div class="social-icon si-portfolio"><i class="fas fa-globe"></i></div>
       <div class="social-label">Portfolio</div>
       <div class="social-val">muhammadnouman.site</div>
     </a>
-    <a href="#" class="social-item">
+    <a href="https://github.com/muhammadnuman-eng" class="social-item" target="_blank" rel="noopener noreferrer">
       <div class="social-icon si-github"><i class="fab fa-github"></i></div>
       <div class="social-label">GitHub</div>
       <div class="social-val">muhammadnuman-eng</div>
     </a>
-    <a href="#" class="social-item">
+    <a href="https://www.linkedin.com/in/nomanfull-stack-developer/" class="social-item" target="_blank" rel="noopener noreferrer">
       <div class="social-icon si-linkedin"><i class="fab fa-linkedin-in"></i></div>
       <div class="social-label">LinkedIn</div>
       <div class="social-val">nomanfull-stack-developer</div>
     </a>
-    <a href="#" class="social-item">
+    <a href="mailto:nomandev304@gmail.com" class="social-item">
       <div class="social-icon si-email"><i class="fas fa-envelope"></i></div>
       <div class="social-label">Email</div>
       <div class="social-val">nomandev304@gmail.com</div>
     </a>
-    <a href="#" class="social-item">
+    <a href="https://wa.me/923120630864" class="social-item" target="_blank" rel="noopener noreferrer">
       <div class="social-icon si-whatsapp"><i class="fab fa-whatsapp"></i></div>
       <div class="social-label">WhatsApp</div>
       <div class="social-val">+92 312 0630864</div>
