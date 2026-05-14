@@ -1,4 +1,4 @@
-> **Note:** Profile `README.md` par tumhara full `portfolio.html` wala CSS run **nahi** hota. **Same design + CSS** dekhne ke liye repo mein **`portfolio.html`** kholen ya **GitHub Pages** se serve karen. Neeche wala content README preview ke liye hai (widgets + text).
+> **Note:** Profile README par full `portfolio.html` jaisa CSS run nahi hota. Same interactive layout + design ke liye repo mein [`portfolio.html`](./portfolio.html) kholen ya **GitHub Pages** se serve karen.
 
 <br/>
 
@@ -6,34 +6,24 @@
 
 ### Hi 👋, I'm
 
-## Muhammad **Numan**
+# Muhammad **Numan**
 
-<img src="https://img.shields.io/badge/Senior_Full_Stack_Developer_%26_Team_Lead-7c3aed?style=for-the-badge&logoColor=white" alt="Senior Full Stack Developer & Team Lead" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/MERN_Stack_Developer-0f1526?style=flat-square&logo=react&logoColor=61dafb" alt="MERN" />
-<img src="https://img.shields.io/badge/LAMP_Stack_Specialist-0f1526?style=flat-square&logo=php&logoColor=777bb4" alt="LAMP" />
-<img src="https://img.shields.io/badge/Python_Developer-0f1526?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-<img src="https://img.shields.io/badge/AI_Engineer-0f1526?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-<img src="https://img.shields.io/badge/Chatbot_Developer-0f1526?style=flat-square&logo=dependabot&logoColor=white" alt="Chatbot" />
-
-<br/><br/>
-
-> **"**Building scalable, efficient and intelligent digital solutions that empower businesses and users.**"**
+<img src="https://img.shields.io/badge/Senior%20Full%20Stack%20Developer%20%26%20Team%20Lead-7c3aed?style=for-the-badge&labelColor=0f1526&color=7c3aed" alt="Senior Full Stack Developer & Team Lead" />
 
 <br/>
 
-**Full portfolio (same layout & CSS as <code>portfolio.html</code>):**  
-<a href="https://github.com/muhammadnuman-eng/ravenhub/blob/main/portfolio.html"><strong>portfolio.html</strong></a> — is file ko local open karen ya is repo par <strong>GitHub Pages</strong> chala kar live HTML dekhen (GitHub file viewer HTML render nahi karta).
+<sub>MERN Stack Developer · LAMP Stack Specialist · Python Developer · AI Engineer · Chatbot Developer</sub>
 
 <br/>
 
-<a href="https://muhammadnouman.site/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-muhammadnouman.site-1a3a5c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/muhammadnuman-eng" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-muhammadnuman__eng-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/nomanfull-stack-developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-nomanfull--stack--developer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nomandev304@gmail.com"><img src="https://img.shields.io/badge/Email-nomandev304%40gmail.com-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/923120630864" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-%2B92_312_0630864-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+> *"Building scalable, efficient and intelligent digital solutions that empower businesses and users."*
+
+<br/>
+
+| [<img src="https://img.shields.io/badge/Portfolio-1a3a5c?style=flat&logo=google-chrome&logoColor=white" height="28" />](https://muhammadnouman.site) | [<img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" height="28" />](https://github.com/muhammadnuman-eng) | [<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" height="28" />](https://www.linkedin.com/in/nomanfull-stack-developer/) | [<img src="https://img.shields.io/badge/Email-c0392b?style=flat&logo=gmail&logoColor=white" height="28" />](mailto:nomandev304@gmail.com) | [<img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white" height="28" />](https://wa.me/923120630864) |
+|:---:|:---:|:---:|:---:|:---:|
+| **Portfolio** | **GitHub** | **LinkedIn** | **Email** | **WhatsApp** |
+| muhammadnouman.site | muhammadnuman-eng | nomanfull-stack-developer | nomandev304@gmail.com | +92 312 0630864 |
 
 </div>
 
@@ -43,69 +33,86 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>ABOUT ME</h3>
+### 👤 ABOUT ME
 
-<ul>
-<li>💼 Senior Full Stack Developer &amp; Team Lead</li>
-<li>✅ 7+ Projects Completed</li>
-<li>📚 Expert in MERN &amp; LAMP Stacks</li>
-<li>🤖 Python Developer &amp; AI Enthusiast</li>
-<li>☁️ Chatbot &amp; SaaS Solution Architect</li>
-<li>❤️ Passionate about clean code, automation &amp; innovation</li>
-</ul>
+- 💼 Senior Full Stack Developer & Team Lead
+- ✅ 7+ Projects Completed
+- 📚 Expert in MERN & LAMP Stacks
+- 🤖 Python Developer & AI Enthusiast
+- ☁️ Chatbot & SaaS Solution Architect
+- ❤️ Passionate about clean code, automation & innovation
 
-<br/>
+### 🚀 WHAT I DO
 
-<h3>WHAT I DO</h3>
+- 💻 Full Stack Web Development
+- 🤖 AI Chatbots & Automation
+- 🔌 RESTful API Development
+- 🗄️ Database Design & Optimization
+- 👥 Team Management & Leadership
+- 🐛 Problem Solving & Debugging
 
-<ul>
-<li>💻 Full Stack Web Development</li>
-<li>🤖 AI Chatbots &amp; Automation</li>
-<li>🔌 RESTful API Development</li>
-<li>🗄️ Database Design &amp; Optimization</li>
-<li>👥 Team Management &amp; Leadership</li>
-<li>🐛 Problem Solving &amp; Debugging</li>
-</ul>
+### 🐙 GITHUB STATS
 
-<br/>
-
-<h3>GITHUB STATS</h3>
-
-<table>
-<tr><td>Repositories</td><td align="right"><b>71</b></td></tr>
-<tr><td>Contributions</td><td align="right"><b>670+</b></td></tr>
-<tr><td>Commits</td><td align="right"><b>670+</b></td></tr>
-<tr><td>Stars</td><td align="right"><b>15</b></td></tr>
-<tr><td>Pull Requests</td><td align="right"><b>25</b></td></tr>
-</table>
+| | |
+|--|--:|
+| 📁 Repositories | **71** |
+| ➕ Contributions | **670+** |
+| 📌 Commits | **670+** |
+| ⭐ Stars | **15** |
+| 🔀 Pull Requests | **25** |
 
 </td>
 <td width="50%" valign="top">
 
-<h3>TECH STACK</h3>
+### ⚙️ TECH STACK
 
-<p><b>Frontend:</b> React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind · Bootstrap</p>
+**FRONTEND**
 
-<p><b>Backend:</b> Node.js · Express · PHP · Laravel · Python · FastAPI</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28" height="28" alt="Bootstrap" title="Bootstrap" />
 
-<p><b>Database:</b> MongoDB · MySQL · Firebase · Redis</p>
+**BACKEND**
 
-<p><b>Tools:</b> Git · GitHub · Docker · Linux · VS Code · Postman · Figma</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express.js" title="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28" alt="PHP" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" height="28" alt="Laravel" title="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI" title="FastAPI" />
 
-<p><i>Full devicon row: see <code>portfolio.html</code> in this repo.</i></p>
+**DATABASE**
 
-<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase" title="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28" alt="Redis" title="Redis" />
 
-<h3>PROFESSIONAL SKILLS</h3>
+**TOOLS & DEVOPS**
 
-<table>
-<tr><td>Web Development</td><td align="center"><b>95%</b></td></tr>
-<tr><td>AI Chatbot Development</td><td align="center"><b>90%</b></td></tr>
-<tr><td>SaaS Development</td><td align="center"><b>90%</b></td></tr>
-<tr><td>API Development</td><td align="center"><b>95%</b></td></tr>
-<tr><td>Database Management</td><td align="center"><b>90%</b></td></tr>
-<tr><td>Team Leadership</td><td align="center"><b>95%</b></td></tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28" alt="Postman" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28" height="28" alt="Figma" title="Figma" />
+
+### 📊 PROFESSIONAL SKILLS
+
+| | Skill | Bar | % |
+|--:|--------|-----|--:|
+| 🖥️ | Web Development | `████████████████████░` | **95%** |
+| 🤖 | AI Chatbot Development | `██████████████████░░` | **90%** |
+| ☁️ | SaaS Development | `██████████████████░░` | **90%** |
+| 🔷 | API Development | `████████████████████░` | **95%** |
+| 🗄️ | Database Management | `██████████████████░░` | **90%** |
+| 👥 | Team Leadership | `████████████████████░` | **95%** |
 
 </td>
 </tr>
@@ -113,20 +120,43 @@
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnuman-eng&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0f1526&amp;title_color=a855f7&amp;icon_color=06b6d4&amp;text_color=e2e8f0&amp;include_all_commits=true&amp;count_private=true" />
+### 🔥 STREAK STATS
 
-<img height="165" alt="GitHub streak" src="https://github-readme-streak-stats.demolab.com/?user=muhammadnuman-eng&amp;theme=dark&amp;hide_border=true&amp;background=0F1526&amp;ring=7C3AED&amp;fire=F59E0B&amp;currStreakLabel=E2E8F0&amp;sideLabels=E2E8F0&amp;dates=94A3B8" />
+# **21**
 
-<br/><br/>
+<sub>Days</sub>
 
-<img height="220" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuman-eng&amp;layout=donut&amp;theme=dark&amp;hide_border=true&amp;bg_color=111827&amp;title_color=10b981&amp;text_color=e2e8f0" />
+| | |
+|--|--|
+| Current Streak | **21 days** |
+| Longest Streak | **45 days** |
 
-<br/><br/>
+</td>
+<td width="34%" valign="top" align="center">
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=muhammadnuman-eng&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=8" />
+### 📈 TOP LANGUAGES
 
-<p>🏆 <b>Keep pushing limits.</b></p>
+🟨 JavaScript **35.3%**  
+🔵 TypeScript **23.1%**  
+🐍 Python **16%**  
+🟪 PHP **12.6%**  
+⬛ Others **12.2%**
 
-</div>
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏆 GITHUB TROPHIES
+
+🏆 🥇 ⭐ 🔥 💎 🚀 ⚡ 🎯
+
+*And More...*
+
+**Keep Pushing Limits! 🚀**
+
+</td>
+</tr>
+</table>
