@@ -1,93 +1,55 @@
-<h1 align="center">Hi 👋, I'm Muhammad Numan</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Full Stack Developer & Team Lead 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Numan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58" />
 
-<p align="center">
-MERN Stack • LAMP Stack • Python • AI • SaaS • Chatbot Development
-</p>
-
-<p align="center">
-Building scalable web applications, AI systems, SaaS platforms & intelligent chatbot solutions.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Python+%26+AI+Engineer;LAMP+Stack+Specialist;Chatbot+%26+SaaS+Developer;Building+Scalable+Digital+Solutions" />
 
 ---
 
-# 💫 About Me
+### 🌐 Connect With Me
 
-🔹 Senior Full Stack Developer & Team Lead  
-🔹 Specialized in MERN Stack & LAMP Stack Development  
-🔹 Strong expertise in Python, FastAPI & AI Integrations  
-🔹 Building AI Chatbots, Automation Systems & SaaS Platforms  
-🔹 Passionate about scalable architecture & clean UI/UX  
-🔹 Experienced in APIs, Authentication & Database Design  
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,php,laravel,python,fastapi,js,ts,tailwind,bootstrap,docker,git,github,vscode,figma,redis,firebase" />
-</p>
-
----
-
-# 🤖 AI & Automation
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Systems-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-Integrations-black?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Chatbot-Development-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SaaS-Platforms-purple?style=for-the-badge" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadnuman-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnuman-eng&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuman-eng&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/noumanfull-stack-developer/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://muhammadnouman.site/" target="_blank">
+<img src="https://img.shields.io/badge/🌍%20Portfolio-111827?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/muhammadnuman-eng" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://muhammadnouman.site/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<a href="https://www.linkedin.com/in/noumanfull-stack-developer/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nomandev304@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="tel:+923120630864">
+<img src="https://img.shields.io/badge/📞%20+92%20312%200630864-25D366?style=for-the-badge"/>
+</a>
 
 ---
 
-# 📞 Contact
+</div>
 
-📧 Email: nomandev304@gmail.com  
-📱 Phone: +92 312 0630864  
-🌐 Portfolio: https://muhammadnouman.site/
+# 💫 About Me
 
----
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-💻 Transforming ideas into scalable AI-powered digital solutions.
-</p>
+```yaml
+Name: Muhammad Numan
+Role: Senior Full Stack Developer & Team Lead
+
+Expertise:
+  - MERN Stack
+  - LAMP Stack
+  - Python & FastAPI
+  - AI Systems
+  - Chatbot Development
+  - SaaS Platforms
+  - REST APIs
+  - Automation Systems
+
+Focus:
+  Building scalable AI-powered
+  digital products & automation systems.
