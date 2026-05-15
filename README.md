@@ -262,7 +262,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,materialui&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,materialui&perline=10&gap=2px"/>
 
 </div>
 
@@ -280,10 +280,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,symfony&perline=5"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,symfony&perline=10"/>
 </div>
-
 | Backend | Technologies |
 |---|---|
 | Node.js | Express.js, NestJS |
