@@ -341,17 +341,17 @@
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=muhammadnuman-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadnuman-eng&theme=tokyonight"/>
 
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnuman-eng&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnuman-eng&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuman-eng&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadnuman-eng&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadnuman-eng&theme=tokyonight"/>
 
 </div>
 
----
 
 # 🏆 GITHUB REWARDS & TROPHIES
 
