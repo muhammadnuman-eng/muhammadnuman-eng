@@ -139,7 +139,6 @@
 
 </div>
 
----
 
 <!-- GREEN PROFESSIONAL SKILLS SECTION -->
 
@@ -246,7 +245,6 @@
 </table>
 
 </div>
----
 
 # ⚡ COMPLETE TECH STACK
 
