@@ -1,6 +1,8 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:050816,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=70&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:050816,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
@@ -21,6 +23,8 @@
 </div>
 
 ---
+
+<!-- ========================= CONTACT ========================= -->
 
 <div align="center">
 
@@ -48,11 +52,13 @@
 
 ---
 
+<!-- ========================= ABOUT ========================= -->
+
 # 👨‍💻 ABOUT ME
 
 <div align="center">
 
-<img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -62,4 +68,4 @@
 Name: Muhammad Numan
 Role: Senior Full Stack Developer & Team Lead
 Experience: 9+ Years
-Focus: AI Powered Applications & Scalable Systems
+Specialization: AI Powered Systems & Scalable Applications
