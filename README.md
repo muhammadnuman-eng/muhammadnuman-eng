@@ -141,46 +141,58 @@
 
 ---
 
+<!-- GREEN PROFESSIONAL SKILLS SECTION -->
+
 # 📊 PROFESSIONAL SKILLS & WORK PERCENTAGE
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Professional+Skills+%26+Work+Percentage;Full+Stack+Development+Expert;AI+%26+Cloud+Solutions+Engineer" />
+
+<br/><br/>
+
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/>
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/>
 
-### Full Stack Development
+<h3><font color="#00FF99">Full Stack Development</font></h3>
 
-`████████████████████`
+<img src="https://img.shields.io/badge/98%25-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
 
-# 98%
+<br/><br/>
 
-</td>
-
-<td align="center">
-
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
-
-### AI & Chatbots
-
-`███████████████████`
-
-# 95%
+<img src="https://progress-bar.dev/98/?scale=100&title=Progress&width=250&color=00ff99"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
 
-### SaaS Development
+<h3><font color="#00FF99">AI & Chatbots</font></h3>
 
-`██████████████████`
+<img src="https://img.shields.io/badge/95%25-00FF99?style=for-the-badge&logo=openai&logoColor=black"/>
 
-# 92%
+<br/><br/>
+
+<img src="https://progress-bar.dev/95/?scale=100&title=Progress&width=250&color=00ff99"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+
+<h3><font color="#00FF99">SaaS Development</font></h3>
+
+<img src="https://img.shields.io/badge/92%25-00FF99?style=for-the-badge&logo=vercel&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://progress-bar.dev/92/?scale=100&title=Progress&width=250&color=00ff99"/>
 
 </td>
 
@@ -188,39 +200,45 @@
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"/>
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"/>
 
-### API Development
+<h3><font color="#00FF99">API Development</font></h3>
 
-`████████████████████`
+<img src="https://img.shields.io/badge/97%25-00FF99?style=for-the-badge&logo=fastapi&logoColor=black"/>
 
-# 97%
+<br/><br/>
 
-</td>
-
-<td align="center">
-
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
-
-### Database Systems
-
-`██████████████████`
-
-# 93%
+<img src="https://progress-bar.dev/97/?scale=100&title=Progress&width=250&color=00ff99"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 
-### Team Leadership
+<h3><font color="#00FF99">Database Systems</font></h3>
 
-`████████████████████`
+<img src="https://img.shields.io/badge/93%25-00FF99?style=for-the-badge&logo=mongodb&logoColor=black"/>
 
-# 98%
+<br/><br/>
+
+<img src="https://progress-bar.dev/93/?scale=100&title=Progress&width=250&color=00ff99"/>
+
+</td>
+
+<td align="center" width="33%">
+
+<img width="90" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+
+<h3><font color="#00FF99">Team Leadership</font></h3>
+
+<img src="https://img.shields.io/badge/98%25-00FF99?style=for-the-badge&logo=teamspeak&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://progress-bar.dev/98/?scale=100&title=Progress&width=250&color=00ff99"/>
 
 </td>
 
@@ -228,7 +246,6 @@
 </table>
 
 </div>
-
 ---
 
 # ⚡ COMPLETE TECH STACK
