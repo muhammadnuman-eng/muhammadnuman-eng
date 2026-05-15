@@ -52,20 +52,11 @@
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
-
 # 👨‍💻 ABOUT ME
-
-<div align="center">
-
-<img width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</div>
-
-<br/>
 
 ```yaml
 Name: Muhammad Numan
 Role: Senior Full Stack Developer & Team Lead
 Experience: 9+ Years
-Specialization: AI Powered Systems & Scalable Applications
+Focus: AI Powered Systems & Scalable Applications
+Location: Pakistan
