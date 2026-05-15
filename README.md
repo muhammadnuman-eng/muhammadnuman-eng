@@ -250,11 +250,24 @@
 
 # ⚡ COMPLETE TECH STACK
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,materialui,redux,nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,symfony,mongodb,postgresql,mysql,redis,firebase,docker,kubernetes,aws,nginx,git,github,gitlab,bitbucket,postman,jest,cypress,tensorflow,pytorch,figma,vscode&perline=8" />
-
-</div>
+<table width="100%" border="0" cellpadding="30" cellspacing="10" align="center">
+<tr>
+<td bgcolor="#111827" align="center" width="90"><font color="#a78bfa"><b>FRONTEND</b></font></td>
+<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&perline=8" height="36"/></td>
+</tr>
+<tr>
+<td bgcolor="#111827" align="center"><font color="#a78bfa"><b>BACKEND</b></font></td>
+<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi&perline=6" height="36"/></td>
+</tr>
+<tr>
+<td bgcolor="#111827" align="center"><font color="#a78bfa"><b>DATABASE</b></font></td>
+<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&perline=4" height="36"/></td>
+</tr>
+<tr>
+<td bgcolor="#111827" align="center"><font color="#a78bfa"><b>TOOLS & DEVOPS</b></font></td>
+<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=7" height="36"/></td>
+</tr>
+</table>
 
 ---
 
@@ -262,17 +275,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,materialui&perline=10&gap=2px"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,materialui&perline=10&gap=5px"/>
 
 </div>
 
 | Frontend | Technologies |
 |---|---|
 | Languages | JavaScript (ES6+), TypeScript |
-| Frameworks | React.js, Next.js, Angular |
-| Styling | HTML5, CSS3, Tailwind CSS |
-| State Management | Redux |
-| UI Libraries | Material UI |
+| Languages • Frameworks • Styling • State Management • UI Libraries | JavaScript (ES6+), TypeScript • React.js, Next.js, Angular • HTML5, CSS3, Tailwind CSS • Redux • Material UI |
 
 ---
 
@@ -284,11 +294,7 @@
 </div>
 | Backend | Technologies |
 |---|---|
-| Node.js | Express.js, NestJS |
-| Python | Django, FastAPI, Flask |
-| PHP | Laravel, Symfony |
-| APIs | RESTful APIs, GraphQL |
-| Systems | Real-time Systems |
+| Node.js &nbsp;&nbsp;•&nbsp;&nbsp; Python &nbsp;&nbsp;•&nbsp;&nbsp; PHP &nbsp;&nbsp;•&nbsp;&nbsp; APIs &nbsp;&nbsp;•&nbsp;&nbsp; Systems | Express.js, NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Django, FastAPI, Flask &nbsp;&nbsp;•&nbsp;&nbsp; Laravel, Symfony &nbsp;&nbsp;•&nbsp;&nbsp; RESTful APIs, GraphQL &nbsp;&nbsp;•&nbsp;&nbsp; Real-time Systems |
 
 ---
 
@@ -302,12 +308,7 @@
 
 | AI Stack | Expertise |
 |---|---|
-| AI APIs | OpenAI API, Hugging Face |
-| Frameworks | LangChain, LlamaIndex |
-| ML Models | TensorFlow, PyTorch |
-| AI Systems | RAG, NLP, Prompt Engineering |
-| Databases | Pinecone, FAISS, Weaviate |
-
+| AI APIs &nbsp;&nbsp;•&nbsp;&nbsp; Frameworks &nbsp;&nbsp;•&nbsp;&nbsp; ML Models &nbsp;&nbsp;•&nbsp;&nbsp; AI Systems &nbsp;&nbsp;•&nbsp;&nbsp; Databases | OpenAI API, Hugging Face &nbsp;&nbsp;•&nbsp;&nbsp; LangChain, LlamaIndex &nbsp;&nbsp;•&nbsp;&nbsp; TensorFlow, PyTorch &nbsp;&nbsp;•&nbsp;&nbsp; RAG, NLP, Prompt Engineering &nbsp;&nbsp;•&nbsp;&nbsp; Pinecone, FAISS, Weaviate |
 ---
 
 # ☁️ CLOUD • DEVOPS • DEPLOYMENT
@@ -320,10 +321,7 @@
 
 | Cloud & DevOps | Technologies |
 |---|---|
-| AWS | EC2, S3, Lambda |
-| Containers | Docker, Kubernetes |
-| Deployment | Nginx, PM2 |
-| CI/CD | GitHub Actions, GitLab CI |
+| AWS &nbsp;&nbsp;•&nbsp;&nbsp; Containers &nbsp;&nbsp;•&nbsp;&nbsp; Deployment &nbsp;&nbsp;•&nbsp;&nbsp; CI/CD | EC2, S3, Lambda &nbsp;&nbsp;•&nbsp;&nbsp; Docker, Kubernetes &nbsp;&nbsp;•&nbsp;&nbsp; Nginx, PM2 &nbsp;&nbsp;•&nbsp;&nbsp; GitHub Actions, GitLab CI |
 
 ---
 
@@ -337,10 +335,7 @@
 
 | Databases | Skills |
 |---|---|
-| SQL | PostgreSQL, MySQL |
-| NoSQL | MongoDB, Firebase |
-| Cache | Redis |
-| Search | Elasticsearch |
+| SQL &nbsp;&nbsp;•&nbsp;&nbsp; NoSQL &nbsp;&nbsp;•&nbsp;&nbsp; Cache &nbsp;&nbsp;•&nbsp;&nbsp; Search | PostgreSQL, MySQL &nbsp;&nbsp;•&nbsp;&nbsp; MongoDB, Firebase &nbsp;&nbsp;•&nbsp;&nbsp; Redis &nbsp;&nbsp;•&nbsp;&nbsp; Elasticsearch |
 
 ---
 
