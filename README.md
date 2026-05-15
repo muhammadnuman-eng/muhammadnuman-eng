@@ -1,12 +1,12 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= ADVANCED HEADER ========================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:050816,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Muhammad+Numan;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Building+Scalable+AI+Powered+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Muhammad+Numan;Senior+Full+Stack+Developer+%26+Team+Lead;Python+Developer+%7C+AI+Engineer;MERN+%2B+MEAN+%2B+LAMP+Specialist;LLM+%2B+RAG+%2B+Chatbot+Developer;AWS+%2B+Docker+%2B+Kubernetes;Building+Scalable+AI+Powered+Systems" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 ---
 
-<!-- ========================= CONTACT ========================= -->
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -54,9 +54,350 @@
 
 # 👨‍💻 ABOUT ME
 
-```yaml
-Name: Muhammad Numan
-Role: Senior Full Stack Developer & Team Lead
-Experience: 9+ Years
-Focus: AI Powered Systems & Scalable Applications
-Location: Pakistan
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 PROFESSIONAL SUMMARY
+
+💼 Senior Full Stack Developer & Team Lead with **9+ years** of experience building scalable web, mobile & AI-powered applications.
+
+⚡ Specialized in:
+
+- Python Development
+- MERN & MEAN Stack
+- LAMP Stack
+- AI & LLM Systems
+- SaaS Platforms
+- Cloud Native Infrastructure
+
+🤖 Strong expertise in:
+
+- Generative AI
+- LangChain
+- LlamaIndex
+- OpenAI API
+- RAG Systems
+- AI Chatbots
+- Vector Databases
+
+☁️ Experienced with:
+
+- AWS Cloud Infrastructure
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Microservices Architecture
+- API Development
+- Database Optimization
+
+🔥 Passionate about building:
+
+- Intelligent Systems
+- Secure Applications
+- Scalable Platforms
+- High Performance APIs
+- Production Ready Solutions
+
+</td>
+
+<td width="50%" valign="top">
+
+# 📊 QUICK STATS
+
+| 💡 INFO | 🚀 DETAILS |
+|---|---|
+| 👨‍💻 Experience | 9+ Years |
+| 💼 Role | Senior Full Stack Developer |
+| 🤖 Specialization | AI & SaaS Systems |
+| 🌍 Work Type | Remote & Team Lead |
+| 🚀 Projects | 70+ Completed |
+| ⚡ APIs Built | 100+ |
+| 🧠 AI Solutions | 25+ |
+| ☁️ Cloud Deployments | AWS / Docker / K8s |
+| 🔥 Focus | Scalable AI Platforms |
+
+<br/>
+
+# ⚡ CORE EXPERTISE
+
+✅ Full Stack Development  
+✅ AI Chatbot Development  
+✅ LLM Integration  
+✅ SaaS Architecture  
+✅ RESTful APIs  
+✅ Cloud Deployment  
+✅ Database Optimization  
+✅ Team Leadership  
+✅ System Design  
+✅ Automation Systems  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 PROFESSIONAL SKILLS & WORK PERCENTAGE
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/>
+
+### Full Stack Development
+
+`████████████████████`
+
+# 98%
+
+</td>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png"/>
+
+### AI & Chatbots
+
+`███████████████████`
+
+# 95%
+
+</td>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
+
+### SaaS Development
+
+`██████████████████`
+
+# 92%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"/>
+
+### API Development
+
+`████████████████████`
+
+# 97%
+
+</td>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+
+### Database Systems
+
+`██████████████████`
+
+# 93%
+
+</td>
+
+<td align="center">
+
+<img width="85" src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png"/>
+
+### Team Leadership
+
+`████████████████████`
+
+# 98%
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ COMPLETE TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,tailwind,materialui,redux,nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,symfony,mongodb,postgresql,mysql,redis,firebase,docker,kubernetes,aws,nginx,git,github,gitlab,bitbucket,postman,jest,cypress,tensorflow,pytorch,figma,vscode&perline=8" />
+
+</div>
+
+---
+
+# 🚀 FRONTEND DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,materialui&perline=5"/>
+
+</div>
+
+| Frontend | Technologies |
+|---|---|
+| Languages | JavaScript (ES6+), TypeScript |
+| Frameworks | React.js, Next.js, Angular |
+| Styling | HTML5, CSS3, Tailwind CSS |
+| State Management | Redux |
+| UI Libraries | Material UI |
+
+---
+
+# ⚙️ BACKEND DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,flask,php,laravel,symfony&perline=5"/>
+
+</div>
+
+| Backend | Technologies |
+|---|---|
+| Node.js | Express.js, NestJS |
+| Python | Django, FastAPI, Flask |
+| PHP | Laravel, Symfony |
+| APIs | RESTful APIs, GraphQL |
+| Systems | Real-time Systems |
+
+---
+
+# 🤖 AI • GENERATIVE AI • MACHINE LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&perline=3"/>
+
+</div>
+
+| AI Stack | Expertise |
+|---|---|
+| AI APIs | OpenAI API, Hugging Face |
+| Frameworks | LangChain, LlamaIndex |
+| ML Models | TensorFlow, PyTorch |
+| AI Systems | RAG, NLP, Prompt Engineering |
+| Databases | Pinecone, FAISS, Weaviate |
+
+---
+
+# ☁️ CLOUD • DEVOPS • DEPLOYMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,gitlab&perline=6"/>
+
+</div>
+
+| Cloud & DevOps | Technologies |
+|---|---|
+| AWS | EC2, S3, Lambda |
+| Containers | Docker, Kubernetes |
+| Deployment | Nginx, PM2 |
+| CI/CD | GitHub Actions, GitLab CI |
+
+---
+
+# 🗄️ DATABASES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&perline=5"/>
+
+</div>
+
+| Databases | Skills |
+|---|---|
+| SQL | PostgreSQL, MySQL |
+| NoSQL | MongoDB, Firebase |
+| Cache | Redis |
+| Search | Elasticsearch |
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=muhammadnuman-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnuman-eng&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnuman-eng&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB REWARDS & TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadnuman-eng&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+<br/><br/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="110"/>
+
+</div>
+
+---
+
+<!-- ========================= ADVANCED FOOTER ========================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&section=footer&color=0:050816,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:00C2FF&text=Thanks%20For%20Visiting&fontColor=ffffff&fontSize=62&fontAlignY=55&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=75&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together+🚀;AI+Powered+Systems+%7C+Cloud+Solutions;Open+For+Remote+Projects+%26+Collaborations" />
+
+<br/><br/>
+
+<a href="https://muhammadnouman.site" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
+</a>
+
+<a href="https://github.com/muhammadnuman-eng" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nomanfull-stack-developer/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:nomandev304@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://wa.me/923120630864" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+<br/><br/>
+
+<h3>⭐ Thanks for visiting my profile ⭐</h3>
+
+</div>
