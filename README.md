@@ -1,5 +1,24 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,30:111827,60:312E81,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=68&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Muhammad+Numan;Senior+Full+Stack+Developer;MERN+%2B+LAMP+Stack+Specialist;Python+Developer+%26+AI+Engineer;FastAPI+%2B+Chatbot+Developer;Building+Scalable+Digital+Solutions" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadnuman-eng&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<br/><br/>
+
+<h3>
+💻 Building scalable, efficient and intelligent digital solutions that empower businesses and users.
+</h3>
+
+</div>
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,30:111827,60:312E81,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
 
 <br/>
