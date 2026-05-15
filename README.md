@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadnuman-eng&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
-
-<br/><br/>
-
 <h3>
 💻 Building scalable, efficient and intelligent digital solutions that empower businesses and users.
 </h3>
@@ -50,7 +46,7 @@
 
 <div align="center">
 
-<img width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -69,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,php,laravel,python,fastapi,mongodb,mysql,firebase,redis,docker,linux,git,github,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,php,laravel,python,fastapi,mongodb,mysql,firebase,redis,docker,linux,git,github,postman,figma,vscode&perline=6" />
 
 </div>
 
@@ -200,16 +196,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadnuman-eng&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
