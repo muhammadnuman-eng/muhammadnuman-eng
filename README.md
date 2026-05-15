@@ -250,26 +250,24 @@
 
 # ⚡ COMPLETE TECH STACK
 
-<table width="100%" border="0" cellpadding="30" cellspacing="10" align="center">
+<table align="center" width="100%" border="0" cellpadding="12" cellspacing="4">
 <tr>
-<td bgcolor="#111827" align="center" width="90"><font color="#a78bfa"><b>FRONTEND</b></font></td>
-<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&perline=8" height="36"/></td>
+<td bgcolor="#111827" align="center" width="100"><font color="#a78bfa"><b>FRONTEND</b></font></td>
+<td bgcolor="#111827">&nbsp;<img src="https://skillicons.dev/icons?i=react" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap" height="36"/>&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="#111827" align="center"><font color="#a78bfa"><b>BACKEND</b></font></td>
-<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi&perline=6" height="36"/></td>
+<td bgcolor="#111827">&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" height="36"/>&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="#111827" align="center"><font color="#a78bfa"><b>DATABASE</b></font></td>
-<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&perline=4" height="36"/></td>
+<td bgcolor="#111827">&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=firebase" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis" height="36"/>&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="#111827" align="center"><font color="#a78bfa"><b>TOOLS & DEVOPS</b></font></td>
-<td bgcolor="#111827"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=7" height="36"/></td>
+<td bgcolor="#111827">&nbsp;<img src="https://skillicons.dev/icons?i=git" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="36"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" height="36"/>&nbsp;</td>
 </tr>
 </table>
-
----
 
 # 🚀 FRONTEND DEVELOPMENT
 
