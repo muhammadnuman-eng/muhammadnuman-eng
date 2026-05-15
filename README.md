@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,30:111827,60:312E81,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=68&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050816,25:111827,50:312E81,75:7C3AED,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=68&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
@@ -17,337 +17,81 @@
 </h3>
 
 </div>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,30:111827,60:312E81,100:00C2FF&text=Muhammad%20Numan&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=1200&lines=MERN+Stack+Developer+•+LAMP+Stack+Specialist+•+Python+Developer+•+AI+Engineer+•+Chatbot+Developer+•+FastAPI+Developer+•+SaaS+Architect" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadnuman-eng&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
-
-<br/><br/>
-
-<h3>
-💻 Building scalable, efficient and intelligent digital solutions that empower businesses and users.
-</h3>
-
-</div>
 
 ---
 
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center">
 
 <a href="https://muhammadnouman.site" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-muhammadnouman.site-0B1120?style=for-the-badge&logo=google-chrome&logoColor=00C2FF"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=00C2FF"/>
 </a>
-
-</td>
-
-<td align="center">
 
 <a href="https://github.com/muhammadnuman-eng" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-muhammadnuman--eng-0B1120?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-<td align="center">
 
 <a href="https://www.linkedin.com/in/nomanfull-stack-developer/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
-</td>
-
-<td align="center">
 
 <a href="mailto:nomandev304@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-nomandev304@gmail.com-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
-</td>
-
-<td align="center">
 
 <a href="https://wa.me/923120630864" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-%2B92%20312%200630864-0B1120?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+<img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-<table>
-<tr>
+# 👨‍💻 ABOUT ME
 
-<td width="28%" valign="top">
+<div align="center">
 
-# 👤 ABOUT ME
+<img width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-<img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
-
-- 💼 Senior Full Stack Developer & Team Lead
-- 🚀 Expert in MERN & LAMP Stacks
-- 🤖 Python Developer & AI Engineer
-- ☁️ SaaS & Chatbot Architect
-- 🔥 API & Automation Specialist
-- ❤️ Passionate about innovation & clean code
+</div>
 
 <br/>
 
-# 🚀 WHAT I DO
+- 💼 Senior Full Stack Developer & Team Lead  
+- 🚀 Expert in MERN, MEAN & LAMP Stacks  
+- 🤖 Python Developer & AI Engineer  
+- ☁️ SaaS, Chatbot & Automation Specialist  
+- 🔥 API Architecture & Backend Optimization  
+- ❤️ Passionate about innovation, clean code & scalability  
 
-- 💻 Full Stack Web Development
-- 🤖 AI Chatbots & Automation
-- 🔌 RESTful API Development
-- 🗄️ Database Design & Optimization
-- 👥 Team Leadership
-- 🐛 Problem Solving & Debugging
-
-<br/>
-
-# 📊 GITHUB STATS
-
-| Metric | Count |
-|---|---|
-| 📁 Repositories | 71 |
-| ➕ Contributions | 670+ |
-| 📌 Commits | 670+ |
-| ⭐ Stars | 15 |
-| 🔀 Pull Requests | 25 |
-
-</td>
-
-<td width="72%" valign="top">
+---
 
 # ⚡ TECH STACK
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,express,php,laravel,python,fastapi,mongodb,mysql,firebase,redis,docker,linux,git,github,postman,figma,vscode" />
 
-### React
+</div>
 
-</td>
+---
 
-<td align="center">
+# 🚀 WHAT I DO
 
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<div align="center">
 
-### Next.js
+| 💻 Full Stack Development | 🤖 AI Chatbots | ☁️ SaaS Platforms |
+|---|---|---|
+| MERN & LAMP Apps | AI Automation | Enterprise SaaS |
+| REST APIs | Chatbot Systems | CRM Platforms |
+| Scalable Backends | AI Integrations | Cloud Solutions |
 
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-### JavaScript
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-
-### TypeScript
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-### HTML5
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-### CSS3
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-
-### Tailwind
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-
-### Bootstrap
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-### Node.js
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-
-### Express
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-
-### PHP
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-
-### Laravel
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-### Python
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-### FastAPI
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-### MongoDB
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-### MySQL
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-
-### Firebase
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-
-### Redis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-
-### Docker
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-### Linux
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-### Git
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-### GitHub
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-
-### Postman
-
-</td>
-
-<td align="center">
-
-<img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-### Figma
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 📊 PROFESSIONAL SKILLS
+
+<div align="center">
 
 <table>
 <tr>
@@ -429,8 +173,9 @@
 </td>
 
 </tr>
-
 </table>
+
+</div>
 
 ---
 
@@ -460,6 +205,8 @@
 
 ---
 
+# 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -472,6 +219,6 @@
 
 ## 🚀 Transforming Ideas Into Scalable AI-Powered Solutions
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,30:111827,60:312E81,100:00C2FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:050816,25:111827,50:312E81,75:7C3AED,100:00C2FF"/>
 
 </div>
